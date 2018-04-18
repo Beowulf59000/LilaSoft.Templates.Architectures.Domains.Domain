@@ -10,7 +10,8 @@
     <PackageLicenseUrl>https://github.com/Beowulf59000/LilaSoft.Templates.Architectures.Domains.Domain/blob/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/Beowulf59000/LilaSoft.Templates.Architectures.Domains.Domain</PackageProjectUrl>
     <RepositoryType>Github</RepositoryType>
-    <Version>0.0.1</Version>
+    <Version>0.0.2</Version>
+    <PackageType>Template</PackageType>
   </PropertyGroup>
 
   <ItemGroup>
