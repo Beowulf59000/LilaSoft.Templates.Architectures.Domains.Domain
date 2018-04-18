@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>LilaSoft.Templates.Architectures.Domains.Domain</RootNamespace>
+    <PackageId>LilaSoft.Templates.Architectures.Domains.Domain</PackageId>
+    <Authors>Johnny Behague</Authors>
+    <Company>LilaSoft</Company>
+    <Description>Ce projet permet de générer un template pour implémenter plus facilement la partie Domain de l'architecture DDD</Description>
+    <PackageLicenseUrl>https://github.com/Beowulf59000/LilaSoft.Templates.Architectures.Domains.Domain/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/Beowulf59000/LilaSoft.Templates.Architectures.Domains.Domain</PackageProjectUrl>
+    <RepositoryType>Github</RepositoryType>
+    <Version>0.0.1</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="LilaSoft.Architectures.Domains.Domain" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>
