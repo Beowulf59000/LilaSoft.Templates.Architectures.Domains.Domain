@@ -1,0 +1,1 @@
+# LilaSoft.Templates.Architectures.Domains.Domain
